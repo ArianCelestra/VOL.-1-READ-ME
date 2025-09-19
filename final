@@ -196,7 +196,7 @@
     <div class="arrow" onclick="document.querySelector('.zine').scrollIntoView({behavior: 'smooth'});">↓</div>
   </section>
 
-  ZINE PAGES
+   <!-- ZINE PAGES -->
   <div class="zine">
     <section class="page" onclick="window.open('https://www.canva.com/design/DAGzJcgRuHo/oR5utXUOVtYFWpXQl4E1hA/edit?utm_content=DAGzJcgRuHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton','_blank')">
       <h2>Feature No.1 </h2>
