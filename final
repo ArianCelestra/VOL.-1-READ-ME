@@ -14,7 +14,7 @@
       scroll-behavior: smooth;
     }
 
-   INTRO COVER
+   /* INTRO COVER */
     .intro {
       height: 100vh;
       background: #fff url("https://www.transparenttextures.com/patterns/newsprint.png");
